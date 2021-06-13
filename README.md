@@ -24,7 +24,7 @@
 #####  https://github.com/chenminupup/CFM_HC<br>
 #### 3.`About us`<br>
 #####  Visit our group page<br>
-#####  https://github.com/chenminupup/CFM_HC<br>
+#####  https://qilong-zhang.github.io/Vision-and-Language-Group.github.io/<br>
 
 ### Reference
 ##### * PaddlePaddle

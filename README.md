@@ -15,16 +15,16 @@
 2.
 
 ### Show
-> #### 1.`AI Studio Project`<br>
->> #####  Visit our AI Studio Project<br>
-> #### 2.`BiliBili Video`<br>
->> #####  Visit BiliBili Video<br>
-> #### 3.`GitHub Page`<br>
->> #####  Visit our GitHub for Android Project<br>
->> #####  https://github.com/chenminupup/CFM_HC<br>
-> #### 3.`About us`<br>
->> #####  Visit our group page<br>
->> #####  https://github.com/chenminupup/CFM_HC<br>
+#### 1.`AI Studio Project`<br>
+#####  Visit our AI Studio Project<br>
+#### 2.`BiliBili Video`<br>
+#####  Visit BiliBili Video<br>
+#### 3.`GitHub Page`<br>
+#####  Visit our GitHub for Android Project<br>
+#####  https://github.com/chenminupup/CFM_HC<br>
+#### 3.`About us`<br>
+#####  Visit our group page<br>
+#####  https://github.com/chenminupup/CFM_HC<br>
 
 ### Reference
 ##### * PaddlePaddle

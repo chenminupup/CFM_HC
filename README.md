@@ -7,7 +7,7 @@
 
 
 ![Image text](系统结构图.png)
-#####          Fig. 1 The structural framework of "an intelligent interactive Alzheimer's disease auxiliary screening system"
+##### Fig. 1 The structural framework of "an intelligent interactive Alzheimer's disease auxiliary screening system"
 
 ### Code
 

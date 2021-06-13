@@ -2,11 +2,17 @@
 ## HC-Paddle-Android
 
 
-##### An app for healthcare(HC)
+##### An app for healthcare(HC)<br>
+##### This project provides a mobile terminal application for medical staff to conduct preliminary screening of patients with Alzheimer's disease. An interactive operation mode is built through Baidu voice interface, and the hand-drawn drawings of patients are evaluated through flying slurry framework.Compared with traditional methods, this method reduces the burden on doctors, improves the screening speed, and ensures the objectivity of the evaluation.<br>
+
+
+##### System structure diagram
+![Image text](D:\医疗量表\百度竞赛\百度初赛文档\项目创意书\系统结构图.png)
+
 
 ### Code
 
-1.
+1.<br>
 2.
 
 ### Show
@@ -16,6 +22,9 @@
 >> #####  Visit BiliBili Video<br>
 > #### 3.`GitHub Page`<br>
 >> #####  Visit our GitHub for Android Project<br>
+>> #####  https://github.com/chenminupup/CFM_HC<br>
+> #### 3.`About us`<br>
+>> #####  Visit our group page<br>
 >> #####  https://github.com/chenminupup/CFM_HC<br>
 
 ### Reference

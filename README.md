@@ -23,7 +23,7 @@
 #####  Visit our GitHub for Android Project<br>
 #####  https://github.com/chenminupup/CFM_HC<br>
 #### 3.`About us`<br>
-#####  Visit our group page<br>
+#####  Visit our team page<br>
 #####  https://qilong-zhang.github.io/Vision-and-Language-Group.github.io/<br>
 
 ### Reference

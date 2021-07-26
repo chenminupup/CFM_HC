@@ -8,12 +8,12 @@
 
 <div align=center>
 <img src="系统结构图.png" width="80%" height="80%" /><br>
-Fig. 1 The structural framework of "an intelligent interactive Alzheimer's disease auxiliary screening system"
+Fig.1 The structural framework of "an intelligent interactive Alzheimer's disease auxiliary screening system"
 </div>
 
 <div align=center>
-<img src="系统数据集.png" width="80%" height="80%" /><br>
-Fig. 2 The dataset of "an intelligent interactive Alzheimer's disease auxiliary screening system"
+<img src="系统数据集.png" width="75%" height="75%" /><br>
+Fig.2 The dataset of "an intelligent interactive Alzheimer's disease auxiliary screening system"
 </div>
 
 ### Show

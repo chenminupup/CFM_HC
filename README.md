@@ -12,7 +12,7 @@ Fig. 1 The structural framework of "an intelligent interactive Alzheimer's disea
 </div>
 
 <div align=center>
-<img src="数据集.png" width="80%" height="80%" /><br>
+<img src="系统数据集.png" width="80%" height="80%" /><br>
 Fig. 2 The dataset of "an intelligent interactive Alzheimer's disease auxiliary screening system"
 </div>
 

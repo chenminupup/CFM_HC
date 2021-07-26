@@ -15,7 +15,8 @@
 2.
 
 ### Show
-#### 1.`AI Studio Project`<br>
+#### 1.[***AI Studio Project***](https://www.baidu.com)
+
 #####  Visit our AI Studio Project<br>
 #### 2.`BiliBili Video`<br>
 #####  Visit BiliBili Video<br>

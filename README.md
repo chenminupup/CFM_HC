@@ -6,11 +6,16 @@
 ##### This project provides a mobile terminal application for medical staff to conduct preliminary screening of patients with Alzheimer's disease. An interactive operation mode is built through Baidu voice interface, and the hand-drawn drawings of patients are evaluated through flying slurry framework.Compared with traditional methods, this method reduces the burden on doctors, improves the screening speed, and ensures the objectivity of the evaluation.<br>
 
 
-![](系统结构图.png)
-##### Fig. 1 The structural framework of "an intelligent interactive Alzheimer's disease auxiliary screening system"
+<div align=center>
+<img src="系统结构图.png" width="80%" height="80%" /><br>
+Fig. 1 The structural framework of "an intelligent interactive Alzheimer's disease auxiliary screening system"
+</div>
 
-![](数据集.png)
-##### Fig. 2 The structural framework of "an intelligent interactive Alzheimer's disease auxiliary screening system"
+<div align=center>
+<img src="数据集.png" width="80%" height="80%" /><br>
+Fig. 2 The dataset of "an intelligent interactive Alzheimer's disease auxiliary screening system"
+</div>
+
 ### Show
 #### 1. AI Studio Project
 
